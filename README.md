@@ -24,7 +24,8 @@ You can Donate and then we publish you (If you want)
 <h3> It's Easy </h3>
 Sends your Donation to our PayPal account, and if you want to be published, sends me an Email with your name and your donated amount
 <p> 
-PayPal: donateandreceive@gmail.com
+PayPal: donateandreceive@gmail.com / paypal.me/DonateAndReceive
+
 </p>
 <p>
 Email: donateandreceive@gmail.com
